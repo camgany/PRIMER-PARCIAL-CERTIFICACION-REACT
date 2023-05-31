@@ -93,4 +93,7 @@ La aplicación consta de los siguientes componentes:
    ```
 4. Abre la aplicación en tu navegador web con la url que se muestra en la terminal.
 
+## LINK DEL VIDEO
+- https://drive.google.com/drive/folders/1-1nZkwtK0U5P2BaGrV2zdnD5tA5pyQdJ?usp=sharing
+
 
