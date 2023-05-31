@@ -34,9 +34,12 @@ const ClockCard = ({ clock, onDelete }) => {
         <strong>Diferencia de Zona Horaria:</strong> {clock.timeZoneOffset}
       </p>
 
-      <p className="city-count p-2">
-        <strong>Contador:</strong> {clock.count}
-      </p>
+      <button
+        className="delete-button bg-pink-200 text-lime-950 text-sm rounded-md px-4 py-2 mt-4 font-semibold hover:bg-pink-300 hover:text-lime-950 w-full"
+        onClick={handleDelete}
+      >
+        Eliminar
+      </button>
     </div>
   );
 };
